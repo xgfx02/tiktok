@@ -10,6 +10,7 @@ TikTok直播
 2、准备美区Apple ID账号
 3、下载小火箭Shadowrocket
 4、准备好代理节点
+
 一、下载 Tiktok V21.1.0 版本
 APP版本ID查询：https://tools.lancely.tech/apple/app-search?country=us&query=tiktok
 TikTok版本号：21.1.0 版本ID：844024073
@@ -27,6 +28,7 @@ iTunes2018版下载：https://secure-appldnld.apple.com/itunes12/091-87819-20180
 
 Fiddler抓包指令：
     bpu MZBuy.woa
+    
 二、下载小火箭Shadowrocket
 登录自己的美区Apple ID账号，下载小火箭Shadowrocket。
 
